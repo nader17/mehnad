@@ -1,0 +1,6 @@
+The authenticity of host 'bitbucket.org (104.192.143.3)' can't be established.
+RSA key fingerprint is 97:8c:1b:f2:6f:14:6b:5c:3b:ec:aa:46:46:74:7c:40.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'bitbucket.org,104.192.143.3' (RSA) to the list of known hosts.
+Connection closed by 104.192.143.3
+fatal: Could not read from remote repository.
